@@ -1,0 +1,1020 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.group-icon,
+.group-icon1 {
+  position: absolute;
+  top: 0;
+  left: 663px;
+  width: 1817px;
+  height: 1927.08px;
+}
+.group-icon1 {
+  top: 2272px;
+  left: 0;
+  width: 1673.95px;
+  height: 1236px;
+}
+.group-icon2,
+.travel-div {
+  position: absolute;
+  top: -1px;
+  left: 61px;
+  width: 110px;
+  height: 110px;
+}
+.travel-div {
+  top: 121.5px;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 4.5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 232px;
+  height: 49px;
+}
+.group-div {
+  position: relative;
+  width: 232px;
+  height: 170.5px;
+  flex-shrink: 0;
+}
+.frame-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-div > * + * {
+  margin-left: 30px;
+}
+.hobbies-and-interests {
+  position: absolute;
+  top: 3208px;
+  left: 1044px;
+  width: 1280px;
+  height: 170.5px;
+  text-align: center;
+  font-size: 30px;
+  color: #666;
+}
+.thantam-div,
+.tumnat-div,
+.web-developer-div {
+  position: absolute;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.web-developer-div {
+  top: 333px;
+  left: 886px;
+  font-size: 40px;
+  font-family: Roboto;
+}
+.thantam-div,
+.tumnat-div {
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.tumnat-div {
+  left: 556px;
+  font-weight: 300;
+  color: #a9a9a9;
+}
+.justin-div {
+  position: absolute;
+  top: 193px;
+  left: 864px;
+  width: 959px;
+  height: 117px;
+  font-size: 100px;
+  font-family: Roboto;
+}
+.thantam-tumnat-div {
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div5,
+.thantam-tumnat-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 32px;
+}
+.httpsgithubcommimiz30-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div6,
+.group-div7,
+.rectangle-div {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  width: 454px;
+  height: 40px;
+}
+.group-div7,
+.rectangle-div {
+  top: 2px;
+  left: 729px;
+  width: 155px;
+}
+.rectangle-div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 24px;
+  background-color: #157698;
+}
+.vector-icon {
+  position: absolute;
+  height: 70.83%;
+  width: 70.83%;
+  top: 14.58%;
+  right: 14.58%;
+  bottom: 14.58%;
+  left: 14.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.behance-div,
+.behance-div1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.behance-div {
+  width: 41.38%;
+  right: 58.62%;
+}
+.div {
+  position: absolute;
+  top: 1px;
+  left: 104px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div8 {
+  position: absolute;
+  height: 34.04%;
+  width: 13.12%;
+  top: 76.6%;
+  right: 16.18%;
+  bottom: -10.64%;
+  left: 70.7%;
+  display: none;
+}
+.group-a {
+  text-decoration: none;
+  position: absolute;
+  top: 541px;
+  left: 990px;
+  width: 884px;
+  height: 141px;
+  cursor: pointer;
+  font-size: 34px;
+  color: #333;
+  font-family: Roboto;
+}
+.rd-computer-engineering {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.i-enjoy-working {
+  margin: 0;
+}
+.rd-computer-engineering-studen {
+  position: absolute;
+  top: 1108px;
+  left: 166px;
+  font-size: 33px;
+  letter-spacing: 0.03em;
+  line-height: 170%;
+  font-family: Roboto;
+  color: #4f4f4f;
+  display: inline-block;
+  width: 585px;
+  height: 346px;
+}
+.studying-university-b {
+  position: relative;
+  letter-spacing: 0.03em;
+  display: flex;
+  align-items: center;
+  width: 358px;
+  height: 122px;
+  flex-shrink: 0;
+}
+.div1,
+.khonkaen-university-b {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: flex;
+  align-items: center;
+}
+.khonkaen-university-b {
+  height: 100%;
+  width: 61.9%;
+  top: 0;
+  right: 38.1%;
+  bottom: 0;
+  left: 0;
+  line-height: 4.5%;
+}
+.div1 {
+  height: 72.21%;
+  width: 24.08%;
+  top: 13.75%;
+  right: 0;
+  bottom: 14.04%;
+  left: 75.92%;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #333;
+}
+.rectangle-div1 {
+  position: absolute;
+  height: 7.5%;
+  width: 3.41%;
+  top: 45.85%;
+  right: 26.43%;
+  bottom: 46.65%;
+  left: 70.16%;
+  background-color: #333;
+}
+.group-div10 {
+  position: relative;
+  width: 1053.27px;
+  height: 80px;
+  flex-shrink: 0;
+}
+.staff-in-cesca {
+  margin-bottom: 0;
+}
+.staff-in-cesca-computer-engin1 {
+  margin: 0;
+  padding-left: 44px;
+}
+.staff-in-cesca-computer-engin {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 50px;
+  display: inline-block;
+}
+.group-div11 {
+  position: relative;
+  width: 973px;
+  height: 200px;
+  flex-shrink: 0;
+  text-align: justify;
+  font-size: inherit;
+  color: #666;
+  font-family: inherit;
+}
+.frame-div2 {
+  width: 981px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 35px;
+  color: #157698;
+  font-family: Roboto;
+}
+.frame-div2 > * + * {
+  margin-top: 42px;
+}
+.frame-div1 {
+  position: absolute;
+  top: 0;
+  left: 74px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div1 > * + * {
+  margin-left: 111px;
+}
+.cont-div {
+  position: absolute;
+  top: 974px;
+  left: 0;
+  width: 1524px;
+  height: 291px;
+  display: none;
+}
+.group-div14 {
+  position: relative;
+  width: 973px;
+  height: 200px;
+  flex-shrink: 0;
+  text-align: justify;
+  font-size: 33px;
+  color: #666;
+}
+.group-div12 {
+  position: absolute;
+  top: 369px;
+  left: 0;
+  width: 1693px;
+  height: 256px;
+  display: none;
+}
+.group-div15,
+.group-div9,
+.work-experience-div {
+  position: absolute;
+  left: 0;
+  width: 1524px;
+  height: 291px;
+}
+.group-div15 {
+  top: 674px;
+  display: none;
+}
+.group-div9,
+.work-experience-div {
+  top: 0;
+}
+.work-experience-div {
+  top: 1108px;
+  left: 800px;
+  text-align: right;
+  font-size: 33px;
+  color: #333;
+}
+.experience-b {
+  position: absolute;
+  height: 100%;
+  width: 55.31%;
+  top: 0;
+  right: 44.69%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.group-div20 {
+  position: absolute;
+  top: 971px;
+  left: 886px;
+  width: 546px;
+  height: 71px;
+}
+.div5 {
+  position: absolute;
+  top: 0;
+  left: 54px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 407px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 61.89%;
+  width: 5.42%;
+  top: 19.05%;
+  right: 94.58%;
+  bottom: 19.05%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-div21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 461px;
+  height: 41px;
+}
+.catumnatgmailcom-div {
+  position: absolute;
+  top: 0;
+  left: 55.17px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 55.28%;
+  width: 6.42%;
+  top: 21.14%;
+  right: 93.58%;
+  bottom: 23.58%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-div22,
+.group-icon7 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 441.17px;
+  height: 41px;
+}
+.group-icon7 {
+  height: 13.56%;
+  width: 3.9%;
+  top: 902.85%;
+  right: 66.37%;
+  bottom: -816.4%;
+  left: 29.72%;
+  max-width: 100%;
+  max-height: 100%;
+  display: none;
+}
+.khonakaen-40000-thailand {
+  position: absolute;
+  top: 0;
+  left: 51.25px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 76.05%;
+  width: 3.69%;
+  top: 11.99%;
+  right: 96.31%;
+  bottom: 11.96%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-div23,
+.info-div {
+  position: absolute;
+  top: 172px;
+  left: 0;
+  width: 528.25px;
+  height: 41px;
+}
+.info-div {
+  top: 1745px;
+  left: 157px;
+  height: 213px;
+  font-size: 35px;
+  color: #4f4f4f;
+  font-family: Roboto;
+}
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #c4c4c4;
+}
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  width: 35.64%;
+  right: 64.36%;
+  background-color: #157698;
+}
+.rectangle-div7,
+.rectangle-div8 {
+  width: 30.69%;
+  right: 69.31%;
+}
+.rectangle-div8 {
+  width: 38.28%;
+  right: 61.72%;
+}
+.flutter-div,
+.group-div26 {
+  position: absolute;
+  height: 42.86%;
+  width: 54.99%;
+  top: 37.14%;
+  right: 0;
+  bottom: 20%;
+  left: 45.01%;
+}
+.flutter-div {
+  height: 100%;
+  width: 36.48%;
+  top: 0;
+  right: 63.52%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div25 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 551px;
+  height: 35px;
+}
+.rectangle-div10,
+.rectangle-div11 {
+  position: absolute;
+  height: 100%;
+  width: 35.64%;
+  top: 0;
+  right: 64.36%;
+  bottom: 0;
+  left: 0;
+  background-color: #157698;
+  display: none;
+}
+.rectangle-div11 {
+  width: 30.69%;
+  right: 69.31%;
+}
+.group-div28,
+.rectangle-div16 {
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 551px;
+  height: 35px;
+}
+.rectangle-div16 {
+  height: 100%;
+  width: 38.28%;
+  top: 0;
+  right: 61.72%;
+  bottom: 0;
+  background-color: #157698;
+  display: none;
+}
+.group-div31 {
+  position: absolute;
+  top: 212px;
+  left: 2px;
+  width: 551px;
+  height: 35px;
+}
+.group-div24,
+.group-div34,
+.group-div37,
+.group-div40 {
+  position: absolute;
+  top: 0;
+  left: 718px;
+  width: 551px;
+  height: 35px;
+}
+.group-div24,
+.group-div37,
+.group-div40 {
+  top: 106px;
+}
+.group-div24,
+.group-div40 {
+  top: 212px;
+}
+.group-div24 {
+  top: 1621px;
+  left: 900px;
+  width: 1269px;
+  height: 247px;
+  font-size: 30px;
+  color: #333;
+}
+.myprofilepic-1-icon {
+  position: absolute;
+  top: 215px;
+  left: 203px;
+  width: 415px;
+  height: 566px;
+  object-fit: cover;
+}
+.group-div44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 551px;
+  height: 35px;
+}
+.group-div43,
+.group-div47,
+.group-div50,
+.group-div53 {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 551px;
+  height: 35px;
+}
+.group-div43,
+.group-div50,
+.group-div53 {
+  top: 0;
+  left: 716px;
+}
+.group-div43,
+.group-div53 {
+  top: 106px;
+}
+.group-div43 {
+  top: 2429px;
+  left: 899px;
+  width: 1267px;
+  height: 141px;
+  font-size: 30px;
+  color: #333;
+}
+.div6,
+.group-div58,
+.rectangle-div45 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.div6 {
+  width: 100%;
+  left: 0;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.group-div58,
+.rectangle-div45 {
+  width: 73.62%;
+  left: 26.38%;
+}
+.rectangle-div45 {
+  height: 13.33%;
+  width: 19.58%;
+  top: 44.44%;
+  right: 80.42%;
+  bottom: 42.22%;
+  left: 0;
+  background-color: #c4c4c4;
+}
+.group-div57 {
+  position: absolute;
+  height: 18.99%;
+  width: 62.31%;
+  top: 40.51%;
+  right: 37.85%;
+  bottom: 40.51%;
+  left: -0.16%;
+  font-size: 30px;
+}
+.computer-engineering-b {
+  position: absolute;
+  height: 21.1%;
+  width: 66.98%;
+  top: -0.42%;
+  right: 33.18%;
+  bottom: 79.32%;
+  left: -0.16%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #333;
+}
+.khonkaen-university-div {
+  position: absolute;
+  height: 38.82%;
+  width: 86.92%;
+  top: 68.35%;
+  right: 13.24%;
+  bottom: -7.17%;
+  left: -0.16%;
+  letter-spacing: 0.03em;
+  font-family: Roboto;
+  color: #666;
+  display: flex;
+  align-items: center;
+}
+.education-b,
+.group-div56 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  width: 642px;
+  height: 237px;
+}
+.education-b {
+  height: 100%;
+  width: 54.21%;
+  top: 0;
+  right: 45.79%;
+  bottom: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.education-div,
+.group-div59 {
+  position: absolute;
+  top: 0;
+  left: 89px;
+  width: 546px;
+  height: 71px;
+  font-size: 47px;
+  color: #157698;
+}
+.education-div {
+  top: 2329px;
+  left: 147px;
+  width: 642px;
+  height: 377px;
+  font-size: 33px;
+  color: #999;
+}
+.group-icon8,
+.profile-b {
+  position: absolute;
+  top: 2329px;
+  left: 158px;
+  width: 57.36px;
+  height: 52px;
+}
+.profile-b {
+  height: 100%;
+  width: 36.45%;
+  top: 0;
+  right: 63.55%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.group-div60,
+.skills-b {
+  position: absolute;
+  top: 968px;
+  left: 166px;
+  width: 546px;
+  height: 71px;
+}
+.skills-b {
+  height: 100%;
+  width: 29.67%;
+  top: 0;
+  right: 70.33%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.group-div61,
+.skills-button {
+  position: absolute;
+  top: 1505px;
+  left: 905px;
+  width: 546px;
+  height: 71px;
+}
+.skills-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  width: 55.86%;
+  top: 0;
+  right: 44.14%;
+  bottom: 0;
+  left: 0;
+  font-size: 47px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: Poppins;
+  color: #157698;
+  text-align: left;
+  display: inline-block;
+}
+.group-div62,
+.hobbies {
+  position: absolute;
+  top: 1955px;
+  left: 886px;
+  width: 546px;
+  height: 71px;
+}
+.hobbies {
+  height: 100%;
+  width: 39.56%;
+  top: 0;
+  right: 60.44%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.group-div63,
+.reference-b {
+  position: absolute;
+  top: 3080px;
+  left: 886px;
+  width: 546px;
+  height: 71px;
+}
+.reference-b {
+  height: 100%;
+  width: 51.1%;
+  top: 0;
+  right: 48.9%;
+  bottom: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame-icon,
+.group-div64 {
+  position: absolute;
+  top: 2718px;
+  left: 234px;
+  width: 546px;
+  height: 71px;
+  display: none;
+}
+.frame-icon {
+  top: 2700px;
+  left: 165px;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+}
+.mr-joine-smith {
+  position: absolute;
+  height: 22.12%;
+  width: 52.06%;
+  top: 0;
+  right: 47.94%;
+  bottom: 77.88%;
+  left: 0;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: Poppins;
+}
+.p-b {
+  font-family: Roboto;
+}
+.p-span {
+  color: #666;
+}
+.p-1-999-888-666 {
+  margin-block-start: 0;
+  margin-block-end: 11px;
+}
+.p-1-999-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.ceo-abc-company,
+.p-1-999-888-666-e-joinesmg {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 40px;
+}
+.p-1-999-888-666-e-joinesmg {
+  height: 48.67%;
+  width: 99.82%;
+  top: 51.33%;
+  right: 0;
+  bottom: 0;
+  left: 0.18%;
+  display: flex;
+  align-items: center;
+  color: #999;
+}
+.ceo-abc-company {
+  height: 17.7%;
+  width: 54.03%;
+  top: 27.43%;
+  right: 45.97%;
+  bottom: 54.87%;
+  left: 0;
+  font-weight: 300;
+  color: #157698;
+  display: inline-block;
+}
+.group-div65 {
+  position: absolute;
+  height: 6.44%;
+  width: 22.54%;
+  top: 81.87%;
+  right: 70.81%;
+  bottom: 11.69%;
+  left: 6.65%;
+  display: none;
+  font-size: 33px;
+  color: #333;
+  font-family: Roboto;
+}
+.line-div,
+.line-div1 {
+  position: absolute;
+  top: 450.5px;
+  left: 863.5px;
+  border-top: 1px solid #999;
+  box-sizing: border-box;
+  width: 1461px;
+  height: 1px;
+}
+.line-div1 {
+  top: 789.5px;
+}
+.facebook-icon,
+.github-icon,
+.instagram-icon,
+.twitter-icon {
+  position: absolute;
+  top: 529px;
+  left: 874px;
+  width: 75px;
+  height: 75px;
+}
+.github-icon,
+.instagram-icon,
+.twitter-icon {
+  top: 636px;
+}
+.instagram-icon,
+.twitter-icon {
+  top: 529px;
+  left: 1618px;
+}
+.twitter-icon {
+  height: 2.14%;
+  width: 3.02%;
+  top: 18.02%;
+  right: 32.42%;
+  bottom: 79.85%;
+  left: 64.56%;
+  max-width: 100%;
+  max-height: 100%;
+  display: none;
+}
+.thai-native-speaker-english {
+  position: absolute;
+  top: 2124px;
+  left: 900px;
+  font-size: 36px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #000;
+  display: inline-block;
+  width: 1269px;
+  height: 387px;
+}
+.resume-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3508px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 47px;
+  color: #157698;
+  font-family: Poppins;
+  left: 150px;
+}
