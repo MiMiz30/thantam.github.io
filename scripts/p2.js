@@ -16,25 +16,19 @@ do {
         numberArray.push(number);
         sum = sum += number;
     }
-    alert(numberArray)
     /*  alert("int = " + isInt(number));
       alert("less than zero = " + (number < 0));*/
 } while (number >= 0 && isInt(number));
-alert(numberArray)
-alert("sum = " + sum)
 
-let arrayLength = numberArray.length();
-alert("arrayLength= "+ arrayLength)
-//let avg = sum / numberArray.length();
-
+let avg = sum / numberArray.length;
 let minVal = Math.min.apply(Math, numberArray);
 let maxVal = Math.max.apply(Math, numberArray);
-alert("min = " + minVal)
+
 function displaStat(array) {
     if (array.length == 0) {
         alert("For the list that is empty, the average is 0, the minimum is 0");
     } else {
-        alert("For the list " + numberList + ", the average is " + avg.toFixed(2) +
+        alert("For the list " + numberArray + ", the average is " + avg.toFixed(2) +
             ", the minimum is " + minVal + ", and the maximum is "
             + maxVal);
     }
