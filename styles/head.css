@@ -4,47 +4,56 @@ ul.head {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-  }
-  
-  li a{
+}
+
+html,
+body,
+{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+li a {
     float: left;
-    border-right:1px solid #bbb;
-  }
-  
-  li a:last-child {
+    border-right: 1px solid #bbb;
+}
+
+li a:last-child {
     border-right: none;
-  }
-  
-  li a {
+}
+
+li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
-  
-  li a:hover:not(.active) {
+}
+
+li a:hover:not(.active) {
     background-color: yellow;
-  }
-  
-  .active {
+}
+
+.active {
     background-color: purple;
-  }
-  
-  p.p1{
+}
+
+p.p1 {
     margin-bottom: 10px;
     display: inline;
     background-color: darkturquoise;
-    border-style:solid;
-    border-color:blue;
+    border-style: solid;
+    border-color: blue;
     border: 5px solid royalblue;
-  }
-  p.p2 {
+}
+
+p.p2 {
     margin-bottom: 10px;
     display: inline;
     background-color: greenyellow;
-    border-style:solid;
-    
+    border-style: solid;
     border: 5px solid green;
-  }
-  
+}
